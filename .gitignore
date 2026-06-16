@@ -1,0 +1,24 @@
+# Git ignore file
+node_modules/
+.next/
+.env.local
+.env*.local
+.env
+dist/
+build/
+logs/
+*.log
+.DS_Store
+.vscode/
+.idea/
+.env.production.local
+coverage/
+.nyc_output/
+tmp/
+temp/
+uploads/
+.cache/
+*.swp
+*.swo
+*~
+.env.test.local
